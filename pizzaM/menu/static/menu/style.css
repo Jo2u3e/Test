@@ -1,0 +1,42 @@
+
+
+h1 {
+    background-color: #DD7835;
+    display: inline;
+    padding: 8px 22px;
+}
+
+.menu_title{
+    margin-top: 45px;
+}
+
+
+body{
+    background: url(images/menu_background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: whitesmoke;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#small_logo{
+    margin-top: 25px;
+    margin-left: 25px ;
+}
+
+.pizza{
+    padding: 15px;
+}
+
+.pizza_name {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.pizza_price{
+    color: #DD7835;
+}
+
